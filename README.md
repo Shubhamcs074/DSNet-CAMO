@@ -27,8 +27,7 @@ This project implements the following:
 ## 📂 Repository Structure
 ```bash
 DSNet-CAMO/
-├── src/ # Core model, dataset, training, and testing code
-├── scripts/ # Run commands
+├──assets
 ├── COD7.ipynb # Main Colab training/testing notebook
 ├── chameleon_results.avi # Model inference video
 ├── feature_maps_*.mp4 # SRF & MF feature heatmaps
@@ -36,6 +35,7 @@ DSNet-CAMO/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+
 ```
 
 
