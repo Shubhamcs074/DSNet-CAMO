@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pth
+*.zip
+*.mp4
+*.avi
+*.pdf
+checkpoints/
+outputs/
+preds*/
+feature_maps*/
+.ipynb_checkpoints/
+
